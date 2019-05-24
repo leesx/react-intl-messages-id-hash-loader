@@ -1,0 +1,17 @@
+{
+  "name": "react-intl-messages-id-hash-loader",
+  "version": "1.2.2",
+  "description": "This is a webpack loader, it must be used width babel-plugin-react-intl-id-hash",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["reat", "reat-intl", "react-intl-id-hash"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^1.2.3",
+    "murmurhash-js": "^1.0.0",
+    "schema-utils": "^1.0.0"
+  }
+}
